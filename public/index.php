@@ -1,7 +1,8 @@
 <?php
-require_once __DIR__ . '/../autoload.php';
-use secclass\goodbye;
 
+require_once '../autoload.php';
+use secclass\ClassHello;
+use secclass\ClassGoodbye;
 
 $class1= new ClassHello();
 $class2 = new ClassGoodbye();

@@ -1,5 +1,6 @@
 <?php
 
+namespace secclass;
 class ClassHello
 {
     public function say() {
